@@ -40,10 +40,10 @@ section#telefone{
 }
 iframe#tela{
     position: relative;
-    top: 80px;
-    left: 24px;
-    width: 253px;
-    height: 448px;
+    top: 75px;
+    left: 23px;
+    width: 235px;
+    height: 419px;
     background-size:cover ;
 }
 section#redes-sociais{
